@@ -18,7 +18,7 @@
             android:id="@+id/image_pet_post"
             android:layout_width="match_parent"
             android:layout_height="300dp"
-            android:background="#ddd"
+            android:background="@color/photo_background"
             android:contentDescription="@string/photo"/>
 
         <LinearLayout
