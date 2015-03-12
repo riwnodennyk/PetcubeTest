@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Petcube Test</string>
+    <string name="photo">Фото</string>
+    <string name="no_server_connection">Нема з\'єднання з сервером</string>
+    <string name="loading_error">Помилка завантаження</string>
+</resources>
